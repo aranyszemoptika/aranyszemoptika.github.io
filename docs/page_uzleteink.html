@@ -1,0 +1,49 @@
+---
+permalink: uzleteink-elerhetosege
+layout: root
+---
+
+<article class="contactPage">
+    <header>
+        <h1>Üzleteink elérhetősége</h1>
+    </header>
+    <section class="shops">
+        <header>
+            <h2>Üzletek</h2>
+        </header>
+        @foreach (var row in shops)
+        {
+            <div class="row">
+                @foreach (var shop in row)
+                {
+                    <div class="col-sm-6">
+                        <div class="wrapper">
+                            <h4 class="address">@shop.Address</h4>
+                            @if (!String.IsNullOrWhiteSpace(shop.Comment))
+                            {
+                                <p class="comment">(@shop.Comment)</p>
+                            }
+                            <p><span class="key"><i class="fa fa-phone"></i> Telefonszám: </span><span class="value">@shop.Phone</span></p>
+                            @if (!String.IsNullOrWhiteSpace(shop.Fax))
+                            {
+                                <p><span class="key"><i class="fa fa-fax"></i> Telefon/fax: </span><span class="value">@shop.Fax</span></p>
+                            }
+                            <p><span class="key"><i class="fa fa-bell"></i> Nyitvatartás: </span><span class="value">@shop.OpeningTime</span></p>
+
+                            <p class="mapsLink"><a class="fancybox.iframe" href="@Html.Raw(shop.MapsCode)"><i class="fa fa-map-marker"></i> Térkép mutatása</a></p>
+                        </div>
+                    </div> 
+                }
+            </div>
+        }
+    </section>
+    <section>
+        <h2>
+            Üzenet küldése
+        </h2>
+        <div id="contactForm">
+            @Html.Action("Form", "ContactSurface")
+        </div>
+    </section>
+
+</article>
