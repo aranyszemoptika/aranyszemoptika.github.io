@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en" class="sfFullHeight">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    {% include _favicon.html %}
+    {% include _styles.html %}
+
+    <title>Document</title>
+
+</head>
+
+<body class="wrapper ge">
+    <div class="sfRow sfExpand">
+        {% include header.html %}
+
+        <div class="page">
+            {{ content }}
+        </div>
+    </div>
+    {% include footer.html %}
+
+    {% include _scripts.html %}
+</body>
+
+</html>
