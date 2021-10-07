@@ -260,7 +260,13 @@ body.ge {
   .contactPage .shops .mapsLink {
     font-weight: bold;
     margin-top: 15px;
+    /* color:#52350a; */
+    cursor: pointer;
   }
+  .contactPage .shops .mapsLink:hover{
+    color: #c18429;
+  }
+
   .contactPage .shops .wrapper .comment {
     color: #777;
     font-style: italic;
