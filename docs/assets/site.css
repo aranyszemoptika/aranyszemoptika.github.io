@@ -172,14 +172,11 @@ body.ge {
   /*footer .shops .address{
       display: inline-block;
   }*/
-  footer .shops ul {
-    margin-bottom: 24px;
-  }
-  footer .shops ul li {
-    margin-bottom: 9px;
-  }
-  footer .contact .facebook {
-    color: #ddd;
+  footer .contact .facebook .bi{
+    width: 1.3em;
+    height: 1.3em;
+    vertical-align: -0.3em;
+    margin-right: 4px;
   }
   footer .article h5 a {
     font-size: 1.2em;
@@ -197,6 +194,12 @@ body.ge {
     max-height: 120px;
     box-shadow: inset 3px 5px 5px 0px rgba(0, 0, 0, 0.5);
   }
+
+
+  footer .shops .item{
+    margin-bottom: 10px;
+  }
+
   /*#endregion */
   /*#region PAGE: Mainpage */
   .mainPage h2 {
@@ -247,48 +250,10 @@ body.ge {
     }
   }
   /*#endregion */
-  /*#region PAGE: Articles */
-  .articlesParent .list .wrapper {
-    margin: 0 0 20px 0;
-  }
-  .articlesParent .list .wrapper .image {
-    display: block;
-    max-height: 200px;
-    overflow: hidden;
-    margin: 0 0 20px 0;
-  }
-  .articlesParent .list .wrapper .image a {
-    display: block;
-  }
-  .articlesParent .list .wrapper .image a img {
-    display: block;
-    width: 100%;
-  }
-  .articlesParent .list .wrapper h3 {
-    margin: 0 0 20px 0;
-    font-size: 1.3em;
-    font-weight: bold;
-  }
-  .articlesParent .list .wrapper h3 a {
-    color: #000;
-    text-transform: uppercase;
-  }
-  .articlesParent .list .wrapper h3 a:hover {
-    color: #d2a450;
-    text-decoration: none;
-  }
-  @media (max-width: 767px) {
-    .articlesParent .list .wrapper {
-      margin: 0 0 30px 0;
-      border-bottom: 1px solid #d2a450;
-      padding-bottom: 10px;
-    }
-    .articlesParent .list .wrapper:last-child {
-      border-bottom: none;
-    }
-  }
-  /*#endregion */
+
   /*#region PAGE: Contacts */
+
+  
   .contactPage .shops .wrapper {
     margin: 10px 0 25px 0;
   }
@@ -309,56 +274,7 @@ body.ge {
     }
   }
   /*#endregion */
-  /*#region PARTIAL: _ArticleList */
-  .articleList .wrapper {
-    width: 100%;
-    /*max-width: 450px;*/
-    margin: 0 0 30px 0;
-    background-color: #fcfcfc;
-    box-shadow: 3px 3px 15px 0px #b4b4b4;
-  }
-  .articleList .wrapper .image {
-    min-height: 150px;
-    max-height: 250px;
-    overflow: hidden;
-    border-right: 1px solid #cecece;
-    /*border-top: 1px solid #cecece;*/
-    border-left: 1px solid #cecece;
-  }
-  .articleList .wrapper .image a {
-    display: block;
-  }
-  .articleList .wrapper .image img {
-    /* corrects inline gap in enclosing div */
-    display: block;
-    /* just in case, to force correct aspect ratio */
-    height: auto !important;
-    width: 100%;
-    /* ie8+9 */
-    /* lt ie8 */
-    -ms-interpolation-mode: bicubic;
-    border: 0;
-  }
-  .articleList .wrapper .desc {
-    border-right: 1px solid #cecece;
-    border-bottom: 1px solid #cecece;
-    border-left: 1px solid #cecece;
-    padding: 16px 15px;
-  }
-  .articleList .wrapper .desc h3 {
-    font-size: 1.25em;
-    text-transform: uppercase;
-    font-weight: bold;
-    margin-bottom: 4.8px;
-  }
-  .articleList .wrapper .desc h3 a {
-    color: #000000;
-    text-decoration: none;
-  }
-  .articleList .wrapper .desc h3 a:hover {
-    color: #d2a450;
-    text-decoration: none;
-  }
+  
   /*#endregion */
   .frame {
     /*display: inline-block;*/
@@ -376,35 +292,5 @@ body.ge {
     font-weight: bold;
   }
   /*#endregion */
-  /*#region --------------------RTE--------------------- */
-  span.rteimg {
-    clear: both;
-  }
-  span.rteimg img {
-    /*display: inline-block;*/
-    padding: 10px;
-    background: rgba(0, 0, 0, 0.15);
-    border: solid 1px rgba(0, 0, 0, 0.5);
-    border-radius: 5px;
-    box-shadow: inset 0px 0px 5px 0px rgba(0, 0, 0, 0.3), 0px 1px 0px 0px rgba(255, 255, 255, 0.125);
-  }
-  @media (max-width: 767px) {
-    .rte span.image-left img,
-    .rte span.image-right img {
-      display: block;
-      max-width: 100%;
-      height: auto !important;
-      margin: 10px 10px 10px 10px;
-    }
-  }
-  @media (min-width: 768px) {
-    .rte span.image-left img {
-      float: left;
-      margin-right: 2em;
-    }
-    .rte span.image-right img {
-      float: right;
-      margin-left: 2em;
-    }
-  }
-  /*# sourceMappingURL=site.css.map */
+  
+
