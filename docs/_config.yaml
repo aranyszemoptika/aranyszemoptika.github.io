@@ -1,1 +1,4 @@
 url: https://aranyszemoptika.github.io
+
+plugins:
+  - jekyll-sitemap
