@@ -1,6 +1,7 @@
 ---
 permalink: szurkehalyog-mutet
 layout: root
+title: Szürkehályog műtét
 ---
 
 # Szürkehályog műtét

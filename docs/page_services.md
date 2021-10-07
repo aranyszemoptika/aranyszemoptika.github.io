@@ -1,6 +1,7 @@
 ---
 permalink: szolgaltatasok
 layout: root
+title: Szolgáltatások
 ---
 
 # Szolgáltatások
