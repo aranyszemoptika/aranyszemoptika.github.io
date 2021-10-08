@@ -6,4 +6,4 @@ title: Árak
 
 # Árak
 
-Hamarosan
+Áraink hamarosan elérhetők lesznek.

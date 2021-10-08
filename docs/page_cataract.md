@@ -2,6 +2,7 @@
 permalink: szurkehalyog-mutet
 layout: root
 title: Szürkehályog műtét
+description: Szürkehályog műtét Tatán és környékén az Aranyszem Optikában
 ---
 
 # Szürkehályog műtét
