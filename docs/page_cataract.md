@@ -20,6 +20,10 @@ Ha az alábbi tünetek bármelyikét tapasztalja, ne halogassa, forduljon hozzá
 
 Ezek a tünetek természetesen más szembetegség fen­nállásakor is jelentkezhetnek, de nagyon gyakoriak a szürkehályog kialakulása esetén. Ha bármilyen látásproblémát tapasztal, mindenképp keressen fel egy tapasztalt szemész szakorvost!
 
+## Vizsgálati / műtéti bejelentkezés
+
+A következő telefonszámon tud bejelentkezni hozzánk vizsgálatra: <span class="phone"><strong>+36 20 502 0179</strong></span>
+
 ## Mi történik a szürkehályog műtét előtt?
 
 Egy előzetes vizsgálat során a szakorvos megállapítja a szürkehályog típusát, előrehaladottságát, továbbá ellenőrzi, hogy Ön alkalmas-e műtétre.
@@ -44,10 +48,6 @@ __Hogyan készüljön a szürkehályog műtétre?__
 - Hölgyek a szürkehályog műtét előtt __ne sminkeljenek__.
 - Vigyen magával __napszemüveget__.
 - A kontaktlencse viselését továbbra is mellőzze, a kezelésre is szemüvegben menjen.
-
-## Áraink
-
-A műtéttel kapcsolatos aktuális árainkat __[itt](/arak "Műtét árak")__ találhatja.
 
 ## Phakoemulsifikáció (közismert rövidítése: Phako)
 
