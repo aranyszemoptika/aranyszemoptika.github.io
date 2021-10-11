@@ -3,6 +3,7 @@ permalink: szurkehalyog-mutet
 layout: root
 title: Szürkehályog műtét
 description: Szürkehályog műtét Tatán és környékén az Aranyszem Optikában
+last_modified_at: 2021-10-11
 ---
 
 # Szürkehályog műtét
@@ -43,6 +44,10 @@ __Hogyan készüljön a szürkehályog műtétre?__
 - Hölgyek a szürkehályog műtét előtt __ne sminkeljenek__.
 - Vigyen magával __napszemüveget__.
 - A kontaktlencse viselését továbbra is mellőzze, a kezelésre is szemüvegben menjen.
+
+## Áraink
+
+A műtéttel kapcsolatos aktuális árainkat __[itt](/arak "Műtét árak")__ találhatja.
 
 ## Phakoemulsifikáció (közismert rövidítése: Phako)
 
