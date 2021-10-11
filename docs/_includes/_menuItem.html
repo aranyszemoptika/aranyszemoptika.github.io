@@ -1,0 +1,7 @@
+{% assign className = "" %}
+
+{% if include.url == page.url %}
+{% assign className = "active" %}
+{% endif %}
+
+<li class="{{className}}"><a  href="{{include.url}}">{{include.title}}</a></li>
