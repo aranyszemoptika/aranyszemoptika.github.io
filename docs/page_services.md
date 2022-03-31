@@ -2,7 +2,7 @@
 permalink: szolgaltatasok
 layout: root
 title: Szolgáltatások
-last_modified_at: 2021-10-08
+last_modified_at: 2022-03-31
 ---
 
 # Szolgáltatások
@@ -15,19 +15,7 @@ Optikánk munkatársai folyamatosan azt a célt tűzik maguk elé, hogy az Ön l
 
 A hozott szemüvegrecept vagy akár az általunk végzett vizsgálat alapján, szakértő kollégánk segít a vásárló igényeinek leginkább megfelelő szemüveglencse típus kiválasztásában is.
 
-A teljes nyitva tartási idő alatt bármikor, előzetes bejelentkezés alapján a 15-20 percig tartó és teljesen fájdalommentes látásvizsgálaton, mely során hozzáértő optometristánk megállapítja az Önnek megfelelő szemüveghez szükséges dioptriát.
-
-Előzetes időpont egyeztetést követően szemész szakorvosi vizsgálat igényelhető.
-
-Tatai Betegeink teljes körű ellátását a sokéves szakmai tapasztalattal rendelkező szemész orvos: Dr. Stettler Márta főorvos látja el. Tatabányán a betegeket fogadja: Dr. Bartha Erika szemész
-
-Orvosaink az aktuálisan szükséges szemüveg korrekció megállapításán túl egyéb szűrővizsgálatok elvégzésével várják a kedves pácienseinket:
-
-- vérnyomás, cukorbetegség, meszesedés által kialakult szemfenéki elváltozások mértékének megállapítása
-- zöldhályog (glaucoma) és szürkehályog diagnosztizálása, ellátása
-- pajzsmirigy speciális szemészeti vizsgálata
-
-A szakorvosi vizsgálat mellett a hét minden napján optometrista szemvizsgálatra is van lehetőség.
+A teljes nyitva tartási idő alatt bármikor, előzetes bejelentkezés alapján a 15-20 percig tartó és teljesen fájdalommentes látásvizsgálaton, mely során hozzáértő optometristánk megállapítja az Önnek megfelelő szemüveghez szükséges dioptriát és akár szürkehályog szűrést is végez.
 
 A helyben elhelyezkedő műhelynek köszönhetően szemüvege akár egy órán belül elkészülhet.
 
