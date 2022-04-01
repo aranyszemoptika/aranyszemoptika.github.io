@@ -2,7 +2,7 @@
 permalink: arak
 layout: root
 title: Árak
-last_modified_at: 2021-10-11
+last_modified_at: 2022-03-31
 ---
 
 # Árak
